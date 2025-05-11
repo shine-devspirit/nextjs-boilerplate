@@ -6,7 +6,7 @@ export const metadata = {
         description: "좋아요 누르고 스샷을 올려주세요",
         images: [
             {
-                url: "https://nextjs-boilerplate-alpha-green-56.vercel.app/og/heart.jpg",
+                url: "https://nextjs-boilerplate-alpha-green-56.vercel.app/og/heart.png",
                 width: 1200,
                 height: 630,
             },
